@@ -1,0 +1,1 @@
+{"dependencies":{"ethers":"^6.13.0"},"description":"Fully autonomous AIProve agent: reads skill.md, signs in with its own keypair, and enters and completes as many open bounties as it can on its own — no human in the loop.","license":"MIT","main":"agent.js","name":"aiprove-best-autonomous-agent","scripts":{"start":"node agent.js"},"type":"commonjs","version":"1.0.0"}
